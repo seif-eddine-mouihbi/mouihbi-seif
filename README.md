@@ -1,6 +1,6 @@
 - <h2 align="left">Hi 👋! My name is Seif and I'm a Full-Stack Web Developer, from Tunisia</h2>
 - 👀 I'm interested in Blockchain technology and Ai Technology
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Cloud Architecture 
 - 💞️ I’m looking to collaborate on new startup project
 - 📫 How to reach me:
 ###
