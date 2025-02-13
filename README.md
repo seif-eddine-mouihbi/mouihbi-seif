@@ -1,7 +1,7 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙎𝙚𝙞𝙛 𝙀𝙙𝙙𝙞𝙣𝙚 𝙈𝙤𝙪𝙞𝙝𝙗𝙞
 
 <div align="left">
-  <a href="emailto:mouihbiseif@gmail.com" target="_blank">
+  <a href="mailto:mouihbiseif@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/seif-eddine-mouihbi/" target="_blank">
