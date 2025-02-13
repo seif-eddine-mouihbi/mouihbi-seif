@@ -1,7 +1,21 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙎𝙚𝙞𝙛 𝙀𝙙𝙙𝙞𝙣𝙚 𝙈𝙤𝙪𝙞𝙝𝙗𝙞
 
-[![](https://img.shields.io/badge/-@mouihbiseif-%23181717?style=flat-square&logo=github)](https://github.com/mouihbi-seif)
-[![](https://img.shields.io/badge/-@seifeddinemouihbi-%23181717?style=flat-square&logo=linkedin)](https://linkedin.com/in/seif-eddine-mouihbi)
+<div align="left">
+  <a href="mouihbiseif@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/seif-eddine-mouihbi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/MouihbiSeifEddine" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://dribbble.com/Mouihbi_Seif" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
+  </a>
+</div>
+
+###
 
 𝑰 ❤️ 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
@@ -13,9 +27,8 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Freelance Landing Page 02](https://svg.bookmark.style/api?url=https://github.com/mouihbi-seif/Musify&mode=dark&style=horizontal)](https://github.com/mouihbi-seif/Musify)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
-[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/mouihbi-seif/Musify&mode=dark&style=horizontal)](https://github.com/mouihbi-seif/Musify)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/mouihbi-seif/ehjez&mode=dark&style=horizontal)](https://github.com/mouihbi-seif/ehjez)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -23,17 +36,16 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node-js?style=flat-square&logo=Node.js&logoColor=%23000000&color=green)
+![Express](https://img.shields.io/badge/-Express-js?style=flat-square&logo=Express&logoColor=%23000000&color=white)
+![Spring Boot](https://img.shields.io/badge/Spring-Boot?style=flat-square&logo=Spring%20Boot&label=Spring%20Boot&color=white)
 
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
+![Static Badge](https://img.shields.io/badge/-EJS-js?style=flat-square&logo=EJS&color=black%20)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![UnoCSS](https://img.shields.io/badge/-UnoCSS-%23333333?style=flat-square&logo=unocss)
-![WindiCSS](https://img.shields.io/badge/-WindiCSS-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
+![Shadcn-ui](https://img.shields.io/badge/shadcn-ui?style=flat-square&logo=shadcn%2Fui&color=black%20)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
@@ -51,4 +63,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
+![mouihbi-seif's github stats](https://github-readme-stats.vercel.app/api?username=mouihbi-seif&show_icons=true&theme=dracula)
