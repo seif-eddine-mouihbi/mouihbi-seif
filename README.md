@@ -27,8 +27,8 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/mouihbi-seif/Musify&mode=dark&style=horizontal)](https://github.com/mouihbi-seif/Musify)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/mouihbi-seif/ehjez&mode=dark&style=horizontal)](https://github.com/mouihbi-seif/ehjez)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/mouihbi-seif/Musify&mode=dark&style=horizontal)](https://github.com/seif-eddine-mouihbi/Musify)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/mouihbi-seif/ehjez&mode=dark&style=horizontal)](https://github.com/seif-eddine-mouihbi/ehjez)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -63,4 +63,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![mouihbi-seif's github stats](https://github-readme-stats.vercel.app/api?username=mouihbi-seif&show_icons=true&theme=dracula)
+![mouihbi-seif's github stats](https://github-readme-stats.vercel.app/api?username=seif-eddine-mouihbi&show_icons=true&theme=dracula)
